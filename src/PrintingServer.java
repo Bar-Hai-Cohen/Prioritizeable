@@ -1,3 +1,7 @@
+/*
+Name: Bar Hai Cohen
+LastUpdate: 21.7.22
+ */
 public class PrintingServer {
     private PriorityQueue priority; // create property of type PriorityQueue
 
